@@ -1,5 +1,5 @@
-### Hi there 👋
-<p>I am <em>Anant garg</em>, I'm working currently as a software engineer for a india base tech startup. I am highly skilled in <strong>Laravel/sql</strong> and all it's related technologies. I have built various modern web applications from sratch. Also I have hands on working experience in making REST Api's for single/multi page mobile applications. I always try to solve real world problems that would improve my productivity in personal and professional life.</p>
+### Hi there,
+I am <em>Anant garg</em>, a dedicated software engineer currently contributing my expertise to a dynamic tech startup based in India. Proficient in Laravel, SQL, and their associated technologies, I specialize in crafting robust solutions. My experience spans the creation of diverse modern web applications from inception to completion. Additionally, I possess hands-on expertise in developing REST APIs tailored for both single and multi-page mobile applications. My commitment lies in addressing real-world challenges, with a constant drive to enhance productivity in both personal and professional spheres.
 <!--
 **Anantg0211/Anantg0211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br>
 ✨ <strong>Technologies I've worked with :</strong>
 <div>
 <img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/>
@@ -33,4 +34,10 @@ Here are some ideas to get you started:
 <img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/>
 <img width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/>
 </div>
+<br>
+🌐 <strong>Some of my awesome projects :</strong>
+<ul>
+  <li>Smart Ai chat app</li>
+  <li>ATM Simulator</li>
+</ul>
 
