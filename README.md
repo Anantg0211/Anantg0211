@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <br>
 🌐 <strong>Some of my awesome projects :</strong>
 <ul>
-  <li>Smart Ai chat app</li>
+  <li>Smart Ai chat app <a href="https://github.com/Anantg0211/smartaichatapp">(link)</a></li>
   <li>ATM Simulator <a href="https://github.com/Anantg0211/ATM_simulation">(link)</a></li>
 </ul>
 
