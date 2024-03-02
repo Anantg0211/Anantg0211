@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<p>I am <em>Anant garg</em>, I'm working currently as a software engineer for a india base tech startup. I am highly skilled in <strong>Laravel/sql</strong> and all it's related technologies. I have built various modern web applications from sratch. Also I have hands on working experience in making REST Api's for single/multi page mobile applications. I always try to solve real world problems that would improve my productivity in personal and professional life.</p>
 <!--
 **Anantg0211/Anantg0211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Technologies I have worked with
+✨ <strong>Technologies I've worked with :</strong>
 <div>
 <img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/>
 <img width="50" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="GitLab" title="GitLab"/>
@@ -33,3 +33,4 @@ Technologies I have worked with
 <img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/>
 <img width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/>
 </div>
+
