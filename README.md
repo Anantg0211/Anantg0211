@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Technologies I have worked with
-!(https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png)
+
+![192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0](https://github.com/Anantg0211/Anantg0211/assets/91323368/5628f205-ff76-46c8-a1aa-c97241c266b2)
