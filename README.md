@@ -38,6 +38,6 @@ Here are some ideas to get you started:
 🌐 <strong>Some of my awesome projects :</strong>
 <ul>
   <li>Smart Ai chat app</li>
-  <li>ATM Simulator</li>
+  <li>ATM Simulator <a href="https://github.com/Anantg0211/ATM_simulation">(link)</a></li>
 </ul>
 
